@@ -1,4 +1,4 @@
-# FACIAL EXPRESSION RECOGNISION :slightly_smiling_face:  	:expressionless: :neutral_face: :pensive: :open_mouth: :frowning_face: :angry: :persevere:
+# FACIAL EXPRESSION RECOGNITION :slightly_smiling_face:  	:expressionless: :neutral_face: :pensive: :open_mouth: :frowning_face: :angry: :persevere:
 
 ![faceing](https://www.noldus.com/images/content-blog/facereader-authority-element-reliability-performance-emotions-two-rows-illustration.jpg)
 
